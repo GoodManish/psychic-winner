@@ -1,1 +1,3 @@
 My commit2
+
+As part of Commit3, Updating commitFile3
